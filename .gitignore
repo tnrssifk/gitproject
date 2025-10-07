@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+*.tmp
+*.swp
+
+.env
+.secrets
+
+*.exe
+*.dll
+*.zip
+*.tar.gz
